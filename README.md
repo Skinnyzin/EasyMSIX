@@ -27,3 +27,20 @@ O **EasyMSIX** simplifica esse processo:
 ## Requisitos
 
 - Windows 10 ou posterior, python 3,8+ para desenvolvimento ou compilação
+
+---
+
+## Configuração
+
+Para que o programa seja executado ao dar dois cliques nos arquivos:
+Clique com o botão direito em qualquer arquivo .msix, .msixbundle ou .appx.
+
+1 - Selecione Abrir com > Escolher outro aplicativo.
+
+2 -Clique em Escolher um aplicativo no seu computador (ou Procurar outro aplicativo neste PC).
+
+3 - Navegue até a pasta onde está o seu instalador.exe e selecione-o.
+
+4 - Marque a opção "Sempre usar este aplicativo para abrir arquivos [extensão]".
+
+5 - Repita a associação para cada uma das três extensões.
