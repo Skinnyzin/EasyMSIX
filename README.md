@@ -39,7 +39,7 @@ Clique com o botão direito em qualquer arquivo .msix, .msixbundle ou .appx.
 
 2 -Clique em Escolher um aplicativo no seu computador (ou Procurar outro aplicativo neste PC).
 
-3 - Navegue até a pasta onde está o seu instalador.exe e selecione-o.
+3 - Navegue até a pasta onde está o programa e selecione-o.
 
 4 - Marque a opção "Sempre usar este aplicativo para abrir arquivos [extensão]".
 
