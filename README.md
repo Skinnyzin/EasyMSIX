@@ -9,18 +9,8 @@ Uma ferramenta leve e intuitiva para instalação direta de aplicativos nos form
 A instalação manual de pacotes locais no Windows geralmente requer a abertura do terminal ou a execução manual de comandos no PowerShell. 
 
 O **EasyMSIX** simplifica esse processo:
-- **Instalação via duplo clique:** Basta dar dois cliques no arquivo `.msix`, `.msixbundle` ou `.appx`.
+- **Instalação via duplo clique:** Basta dar dois cliques no arquivo `.msix`, `.msixbundle` ou `.appx` que automaticamente irá instalar.
 - **Interface Gráfica Simples:** Exibe uma janela minimalista com status e barra de progresso.
-- **PowerShell Oculto:** O processo de instalação roda em segundo plano sem abrir nenhuma janela do prompt de comando.
-
----
-
-## Funcionalidades
-
-- Suporte aos formatos `.msix`, `.msixbundle` e `.appx`.
-- Execução em segundo plano (`Add-AppxPackage`) via PowerShell nativo.
-- Notificações simples de sucesso ou erro ao finalizar o processo.
-- Compilável para um executável autônomo (`.exe`).
 
 ---
 
@@ -35,12 +25,10 @@ O **EasyMSIX** simplifica esse processo:
 Para que o programa seja executado ao dar dois cliques nos arquivos:
 Clique com o botão direito em qualquer arquivo .msix, .msixbundle ou .appx.
 
-1 - Selecione Abrir com > Escolher outro aplicativo.
+**1 -** Selecione Abrir com > Escolher outro aplicativo.
 
-2 -Clique em Escolher um aplicativo no seu computador (ou Procurar outro aplicativo neste PC).
+**2 -** Clique em Escolher um aplicativo no seu computador (ou Procurar outro aplicativo neste PC).
 
-3 - Navegue até a pasta onde está o programa e selecione-o.
+**3 -** Navegue até a pasta onde está o programa e selecione-o.
 
-4 - Marque a opção "Sempre usar este aplicativo para abrir arquivos [extensão]".
-
-5 - Repita a associação para cada uma das três extensões.
+**4 -** Marque a opção "Sempre usar este aplicativo para abrir arquivos [extensão]".
